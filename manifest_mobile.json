@@ -1,0 +1,32 @@
+{
+  "name": "OviRation Lait Mobile",
+  "short_name": "OviRation Lait",
+  "description": "Distribution des rations ovines laitières - OviRation Lait Mobile",
+  "start_url": "/OviRation_Lait/index.html",
+  "scope": "/OviRation_Lait/",
+  "display": "standalone",
+  "background_color": "#4a2d6b",
+  "theme_color": "#4a2d6b",
+  "orientation": "portrait",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/OviRation_full.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
