@@ -13,8 +13,8 @@ OviRation Lait est un outil professionnel de rationnement ovin basé sur les nor
 
 | Version | Lien |
 |---|---|
-| 📱 Mobile (Distribution) | [tibix.github.io/OviRation_Lait/](https://tibix.github.io/OviRation/) |
-| 🖥️ PC (Calcul des rations) | [tibix.github.io/OviRation_Lait/OviRation_Lait_PC.html](https://tibix.github.io/OviRation/OviRation_Lait_PC.html) |
+| 📱 Mobile (Distribution) | [tibix.github.io/OviRation/](https://tibix.github.io/OviRation/) |
+| 🖥️ PC (Calcul des rations) | [tibix.github.io/OviRation/OviRation_Lait_PC.html](https://tibix.github.io/OviRation/OviRation_Lait_PC.html) |
 
 ---
 
